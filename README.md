@@ -12,19 +12,19 @@ The problem we seek to solve is the main demand of the company is to detect in a
 problems. The prediction algorithm used in this classification technique is the Logistic Regression Model, Decision Tree, and Random Forest.
 
 ## Data Info
-!([Screenshot 2024-08-21 at 19.22.14.png](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Data-Analytics-and-Machine-Learning-Group-Project/main/Screenshot%202024-08-21%20at%2019.22.14.png)) 
+!([](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Data-Analytics-and-Machine-Learning-Group-Project/main/Screenshot%202024-08-21%20at%2019.22.14.png)) 
 
 ## Percentage of Employees Promoted and not Promoted in Each Department
-!(by each dept.png)
+![]([](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Data-Analytics-and-Machine-Learning-Group-Project/main/by%20each%20dept.png))
 
 ## Percentage of Employees Promoted and not Promoted by Recruitment Channel
-!(by rec chan.png)
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Data-Analytics-and-Machine-Learning-Group-Project/main/by%20rec%20chan.png)
 
 ## Percentage of Employees Promoted and not Promoted by Educational Background 
-!(by ed back.png)
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Data-Analytics-and-Machine-Learning-Group-Project/main/by%20ed%20back.png))
 
 ## Model Evaluation
-!(Screenshot 2024-08-21 at 19.28.32.png)
+![](https://raw.githubusercontent.com/RidhatullahAkmalurrizalFirdausi/Data-Analytics-and-Machine-Learning-Group-Project/main/Screenshot%202024-08-21%20at%2019.28.32.png))
 
 ## Conclusion
 To sum up the result of the model first, we have found that the best model shown by the validation set via accuracy, and precision, was the random forest model. Despite the decision
